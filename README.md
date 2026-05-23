@@ -5,7 +5,8 @@
 
 ---
 
-![Krishi.ai Banner](./docs/assets/banner.png)
+![Krishi.ai Banner](
+Screenshot 2026-05-23 at 3.03.07 PM.png)
 
 ## 🚀 Overview
 
