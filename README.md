@@ -5,7 +5,7 @@
 
 ---
 
-![Krishi.ai Banner] <img width="622" height="455" alt="banner" src="https://github.com/user-attachments/assets/a56d2691-1106-427e-9925-cb55249fd7d0" />
+<img width="622" height="455" alt="banner" src="https://github.com/user-attachments/assets/a56d2691-1106-427e-9925-cb55249fd7d0" />
 
 
 ## 🚀 Overview
